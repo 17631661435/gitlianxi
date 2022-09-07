@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd029208-5454-49b3-a4f2-80dbdd382d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/aa/aa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aa/aa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -86,6 +86,7 @@
       <workItem from="1662293951502" duration="1414000" />
       <workItem from="1662453001428" duration="4577000" />
       <workItem from="1662517732653" duration="633000" />
+      <workItem from="1662537574328" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="gai0906">
       <created>1662454279141</created>
@@ -154,18 +155,18 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="793" y="221" key="Gitee.UntrackedFilesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662294044792" />
-    <state x="229" y="316" key="SettingsEditor" timestamp="1662453408759">
+    <state x="229" y="316" key="SettingsEditor" timestamp="1662538331565">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="229" y="316" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1662453408759" />
-    <state x="0" y="498" key="Vcs.Push.Dialog.v2" timestamp="1662296443068">
+    <state x="229" y="316" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1662538331565" />
+    <state x="135" y="477" key="Vcs.Push.Dialog.v2" timestamp="1662538516953">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="0" y="498" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1662296443068" />
-    <state x="640" y="557" key="com.intellij.ide.util.TipDialog" timestamp="1662517742122">
+    <state x="135" y="477" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1662538516953" />
+    <state x="640" y="557" key="com.intellij.ide.util.TipDialog" timestamp="1662537575791">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="640" y="557" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662517742122" />
+    <state x="640" y="557" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662537575791" />
     <state x="668" y="307" key="git4idea.merge.GitPullDialog" timestamp="1662294139664">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
