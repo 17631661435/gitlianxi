@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd029208-5454-49b3-a4f2-80dbdd382d8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aa/aa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aa/aa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <workItem from="1662293951502" duration="1414000" />
       <workItem from="1662453001428" duration="4577000" />
       <workItem from="1662517732653" duration="633000" />
-      <workItem from="1662537574328" duration="1179000" />
+      <workItem from="1662537574328" duration="1921000" />
     </task>
     <task id="LOCAL-00001" summary="gai0906">
       <created>1662454279141</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662455586643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gai0907">
+      <created>1662538977768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662538977768</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,17 +138,18 @@
     <MESSAGE value="gai0906" />
     <MESSAGE value="gai0906aaa2" />
     <MESSAGE value="gai0906aaa3master" />
-    <option name="LAST_COMMIT_MESSAGE" value="gai0906aaa3master" />
+    <MESSAGE value="gai0907" />
+    <option name="LAST_COMMIT_MESSAGE" value="gai0907" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="184" key="#Java" timestamp="1662455306786">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="184" key="#Java/0.0.1920.1032@0.0.1920.1032" timestamp="1662455306786" />
-    <state x="867" y="133" width="1022" height="812" key="CommitChangelistDialog2" timestamp="1662455586188">
+    <state x="867" y="133" width="1022" height="812" key="CommitChangelistDialog2" timestamp="1662538977260">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="867" y="133" width="1022" height="812" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1662455586188" />
+    <state x="867" y="133" width="1022" height="812" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1662538977260" />
     <state x="0" y="514" key="FileChooserDialogImpl" timestamp="1662453453064">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -155,14 +162,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="793" y="221" key="Gitee.UntrackedFilesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662294044792" />
-    <state x="229" y="316" key="SettingsEditor" timestamp="1662538331565">
+    <state x="229" y="316" key="SettingsEditor" timestamp="1662539194029">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="229" y="316" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1662538331565" />
-    <state x="135" y="477" key="Vcs.Push.Dialog.v2" timestamp="1662538516953">
+    <state x="229" y="316" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1662539194029" />
+    <state x="135" y="477" key="Vcs.Push.Dialog.v2" timestamp="1662539294794">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="135" y="477" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1662538516953" />
+    <state x="135" y="477" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1662539294794" />
     <state x="640" y="557" key="com.intellij.ide.util.TipDialog" timestamp="1662537575791">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
