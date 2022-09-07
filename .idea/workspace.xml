@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd029208-5454-49b3-a4f2-80dbdd382d8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aa/aa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aa/aa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\储存目录\百度\gitlianxi\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java_env\repository" />
+        <option name="mavenHome" value="D:/java_env/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\java_env\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EIrTestanbmJAKK9VzjSaz1tVy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd029208-5454-49b3-a4f2-80dbdd382d8b" name="Default Changelist" comment="" />
+      <created>1662293948508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662293948508</updated>
+      <workItem from="1662293951502" duration="1414000" />
+      <workItem from="1662453001428" duration="4577000" />
+      <workItem from="1662517732653" duration="633000" />
+    </task>
+    <task id="LOCAL-00001" summary="gai0906">
+      <created>1662454279141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454279141</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gai0906aaa2">
+      <created>1662454420511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454420511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gai0906aaa3master">
+      <created>1662455586643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662455586643</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gai0906" />
+    <MESSAGE value="gai0906aaa2" />
+    <MESSAGE value="gai0906aaa3master" />
+    <option name="LAST_COMMIT_MESSAGE" value="gai0906aaa3master" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="184" key="#Java" timestamp="1662455306786">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="184" key="#Java/0.0.1920.1032@0.0.1920.1032" timestamp="1662455306786" />
+    <state x="867" y="133" width="1022" height="812" key="CommitChangelistDialog2" timestamp="1662455586188">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="867" y="133" width="1022" height="812" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1662455586188" />
+    <state x="0" y="514" key="FileChooserDialogImpl" timestamp="1662453453064">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="514" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1662453453064" />
+    <state x="810" y="416" key="Gitee.ShareDialog" timestamp="1662294033227">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="810" y="416" key="Gitee.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662294033227" />
+    <state x="793" y="221" key="Gitee.UntrackedFilesDialog" timestamp="1662294044792">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="793" y="221" key="Gitee.UntrackedFilesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662294044792" />
+    <state x="229" y="316" key="SettingsEditor" timestamp="1662453408759">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="229" y="316" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1662453408759" />
+    <state x="0" y="498" key="Vcs.Push.Dialog.v2" timestamp="1662296443068">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="498" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1662296443068" />
+    <state x="640" y="557" key="com.intellij.ide.util.TipDialog" timestamp="1662517742122">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="640" y="557" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662517742122" />
+    <state x="668" y="307" key="git4idea.merge.GitPullDialog" timestamp="1662294139664">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="668" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662294139664" />
+    <state x="554" y="391" key="git4idea.rebase.GitRebaseDialog" timestamp="1662456070686">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="554" y="391" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1662456070686" />
+  </component>
+</project>
